@@ -6,6 +6,15 @@ const config: Config = {
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  theme: {
+    extend: {
+      fontFamily: {
+        DINABold: ["var(--font-din-alternate-bold)"],
+        DINAMedium: ["var(--font-din-alternate-medium)"],
+        DINARegular: ["var(--font-din-alternate-regular)"],
+      },
+    },
+  },
   plugins: [],
 };
 export default config;

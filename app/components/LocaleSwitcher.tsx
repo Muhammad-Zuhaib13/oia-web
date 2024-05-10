@@ -7,7 +7,7 @@ import {
   useRouter,
   type Locale,
 } from "@/i18n.config";
-
+import { colorTheme } from "../common/colorTheme";
 export default function LocaleSwitcher({
   locale,
 }: {
@@ -28,7 +28,7 @@ export default function LocaleSwitcher({
       <select
         value={locale}
         onChange={changeLocale}
-        className="rounded-sm bg-sky-200 px-2 py-1 text-sky-950"
+        className={`text-[${colorTheme.lightbrown}] text-[14px] font-DINAMedium bg-transparent`}
       >
         {locales.map((loc) => (
           <option key={loc} value={loc}>

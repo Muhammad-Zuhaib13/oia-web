@@ -12,7 +12,16 @@
     "appTitle": "تقص نكست چى إس",
     "navLinks": {
       "week": "هذا الأسبوع",
-      "about": "نبذة عنا"
+      "about": "نبذة عنا",
+      "home": "الرئيسية",
+      "governance": "المنظمة",
+      "oia-impact": "الاستثمار في OIA",
+      "our-investments": "استثماراتنا",
+      "potential": "محتمل",
+      "media-center": "مركز الوسائط",
+      "oman": "عمان",
+      "careers": "الوظائف",
+      "contact-us": "اتصل بنا"
     }
   },
   "WeatherAlerts": {

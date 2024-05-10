@@ -12,7 +12,16 @@
     "appTitle": "Next.js Weather",
     "navLinks": {
       "week": "This week",
-      "about": "About"
+      "about": "About",
+      "home": "Home",
+      "governance": "Governance",
+      "oia-impact": "OIA Impact",
+      "our-investments": "Our Investments",
+      "potential": "Potential",
+      "media-center": "Media Center",
+      "oman": "Oman",
+      "careers": "Careers",
+      "contact-us": "Contact Us"
     }
   },
   "WeatherAlerts": {
