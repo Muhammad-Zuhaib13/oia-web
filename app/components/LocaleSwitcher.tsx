@@ -42,7 +42,12 @@ export default function LocaleSwitcher({
           onClick={toggleOpen}
         >
           <span>{localeNames[lang]}</span>
-          <button>
+          <button
+            className="transform transition-transform"
+            style={{
+              transform: open ? "rotate(180deg)" : "rotate(0deg)",
+            }}
+          >
             <Image
               src={Icon}
               width={14}
