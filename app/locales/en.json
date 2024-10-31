@@ -1,0 +1,1289 @@
+{
+  "Layout": {
+    "metaData": {
+      "title": "OIA",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    }
+  },
+  "Navbar": {
+    "home": "Home",
+    "about-oia": "About OIA",
+    "leadership": "Leadership",
+    "sultanate-of-oman": "Sultanate of Oman",
+    "our-investments": "Our Investments",
+    "future-gen-fund": "Future Generation Fund",
+    "national-dev-fund": "National Development Fund",
+    "future-fund-oman": "Future Fund Oman",
+    "investor-relations": "Investor Relations",
+    "oia-impact": "OIA Impact",
+    "in-country-value": "In-Country Value",
+    "national-economy": "National Economy",
+    "financial-sustainability":"Financial Sustainability",
+    "ipos-plan":"IPOs Plan",
+    "omani-angle":"Omani Angle",
+    "governance": "Governance",
+    "oia-companies-manual": "OIA Companies Manual",
+    "internal-governance": "Committees",
+    "governance-risk-compliance": "Governance, Risk & Compliance",
+    "audits": "Audits",
+    "whistleblowing": "Whistleblowing",
+    "ifswf": "IFSWF",
+    "media-center": "Media Center",
+    "news": "Newsroom",
+    "news-details": "News Details",
+    "publications": "Publications",
+    "gallery": "Gallery",
+    "brand-hub": "Brand Hub",
+    "open-data": "Open Data",
+    "careers": "Careers"
+  },
+
+  "Header": {
+    "appTitle": "OMAN INVESTMENT AUTHORITY",
+    "home": "Home",
+    "about-oia": "About OIA",
+    "oia-impact": "OIA Impact",
+    "our-investments": "Our Investments",
+    "media-center": "Media Center",
+    "oman": "Oman",
+    "contact-us": "Contact Us",
+    "careers": "Careers",
+    "in-country": "In Country Value",
+    "national-economy": "National Economy",
+    "joint-ventures": "Joint Ventures",
+    "national-dev-fund": "National Development Fund",
+    "future-gen-fund": "Future Generation Fund",
+    "future-fund-oman": "Future Fund Oman",
+    "news": "News",
+    "news-details": "News Details",
+    "annual-reports": "Annual Reports",
+    "injaz-and-eejaz": "Injaz and Eejaz",
+    "internship-opp": "Intership Opportunities",
+    "search-placeholder": "Search"
+  },
+  "Home": {
+    "metaData": {
+      "title": "OIA",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy"
+    },
+    "home-banner": {
+      "video": "/assets/videos/oia-video-1.mp4",
+      "title": "Investing in",
+      "title-br": "Future",
+      "subtile": "Oman Investment Authority (OIA) is the investment arm of the",
+      "subtitle-br": "Sultanate of Oman, established by Royal Decree No. 61/2020.",
+      "btn-text": "Who we are"
+    },
+    "OIA-Est-banner": {
+      "section-para-one": "  OIA was established by the merger of the 'State General Reserve Fund' and 'Oman Investment Fund'.",
+      "src-one": "/assets/videos/oia-video-2.mp4",
+      "img-one": "/assets/images/oia-assets-17.png",
+      "number-para-one": "OIA's assets size till 2022",
+      "section-para-two": "OIA was established by the merger of the 'State General Reserve Fund' and 'Oman Investment Fund'.",
+      "src-two": "/assets/videos/oia-video-1.mp4",
+      "img-two": "/assets/images/oia-invest-45.png",
+      "number-para-two": "Investments in more than 45 countries"
+    },
+    "Quick-Links-Title": {
+      "title": "Platforms",
+      "para": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.",
+      "btn-text": "Learn More"
+    },
+    "Quick-Links-Slider": {
+      "slide-one": {
+        "id": "1",
+        "image": "/assets/images/home/platform-1.svg",
+        "icon": "/assets/images/home/thiqat-icon.svg",
+        "desc": "Apply for board memberships in Entities affiliated with OIA.",
+        "title": "Thiqat",
+        "btn": "Learn More"
+      },
+      "slide-two": {
+        "id": "2",
+        "image": "/assets/images/home/platform-2.svg",
+        "icon": "/assets/images/home/qimam-icon.svg",
+        "desc": "SME research, development and innovation programmes.",
+        "title": "Qimam",
+        "btn": "Learn More"
+      },
+      "slide-three": {
+        "id": "3",
+        "image": "/assets/images/home/platform-3.svg",
+        "icon": "/assets/images/home/jadarah-icon.svg",
+        "desc": "Attract, Motivate, Develop, and Retain Top Talents.",
+        "title": "Jadarah",
+        "btn": "Learn More"
+      },
+      "slide-four": {
+        "id": "4",
+        "image": "/assets/images/home/platform-4.svg",
+        "icon": "/assets/images/home/future-fund-icon.svg",
+        "desc": "Offering an array of funding to enhance local economy.",
+        "title": "Future Fund",
+        "btn": "Learn More"
+      },
+      "slide-five": {
+        "id": "4",
+        "image": "/assets/images/home/platform-5.svg",
+        "icon": "/assets/images/home/future-fund-icon.svg",
+        "desc": "Offering an array of funding to enhance local economy.",
+        "title": "E-Production",
+        "btn": "Learn More"
+      }
+    },
+    "Investments-Title": {
+      "title": "Investment Highlights",
+      "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "Investments-Slider-Title-Para": {
+      "title": "Investment Highlights",
+      "para": "Oman Investment Authority exit plan aims to empower the private sector and provide it with the necessary support in order to increase its contributions to the national economy, obtain local and international strategic or financial partners, support the attraction of foreign capital, in addition to deepening the stock market."
+    },
+    "Investments-Slider": {
+      "slider-one": {
+        "id": "1",
+        "src": "/assets/images/home/divestments.jpg",
+        "alt": "Divestments",
+        "title": "Divestments"
+      },
+      "slider-two": {
+        "id": "2",
+        "src": "/assets/images/home/investments-l.png",
+        "alt": "Investments",
+        "title": "New Investments (Local)"
+      },
+      "slider-three": {
+        "id": "3",
+        "src": "/assets/images/home/investments-g.png",
+        "alt": "Investments",
+        "title": "New Investments (Global)"
+      },
+      "slider-four": {
+        "id": "4",
+        "src": "/assets/images/asyad.jpg",
+        "alt": "IPOs",
+        "title": "IPOs"
+      }
+    },
+    "Global-Title": {
+      "title": "Our Global Footprint",
+      "para": ""
+    },
+    "Contients": {
+      "northAm": "North America",
+      "southAm": "South America",
+      "africa": "Africa",
+      "europe": "Europe",
+      "asia": "Asia",
+      "australia": "Australia",
+      "oman":"Oman"
+    },
+    "Counter-Data": {
+      "counter-one": {
+        "id": "1",
+        "count": "6",
+        "title": "Continents"
+      },
+      "counter-two": {
+        "id": "2",
+        "count": "52",
+        "title": "Countries"
+      },
+      "counter-three": {
+        "id": "3",
+        "count": "58",
+        "title": "Investee Companies"
+      }
+    },
+    "News-Room": {
+      "title": "News Room",
+      "btn-text": "Learn More",
+      "news-cards": {
+        "news-card-one": {
+          "id": "1",
+          "content": "Oman investment authority launches future fund oman",
+          "date": "17 April 2024",
+          "img": "/assets/images/media-center/authority.jpg",
+          "desc":"Abdulsalam Al Murshidi – The Fund is a major catalyst for the stimulation of the national economy and a credible partner to local and international investors."
+        },
+        "news-card-two": {
+          "id": "2",
+          "content": "OIA launches its social investment policy and a new icv platform",
+          "date": "17 April 2024",
+          "img": "/assets/images/media-center/social.jpg",
+          "desc":"Oman Investment Authority (OIA) announced the launch of its Social Investment Policy for OIA Companies as well as the launch of ‘Qimam’ platform for"
+        },
+        "news-card-three": {
+          "id": "3",
+          "content": "OIA pursues its second national investment in semiconductors" ,
+          "date": "17 April 2024",
+          "img": "/assets/images/media-center/second.jpg",
+          "desc":"Oman Investment Authority (OIA) continues its efforts to enhance its investments in advanced modern technologies and transfer them to the Sultanate. In"
+        },
+        "news-card-four": {
+          "id": "4",
+          "content": "OIA pursues its second national investment in semiconductors",
+          "date": "17 April 2024",
+          "img": "/assets/images/media-center/one.jpg",
+          "desc":"Oman Investment Authority (OIA) continues its efforts to enhance its investments in advanced modern technologies and transfer them to the Sultanate. In"
+
+        }
+      }
+    }
+  },
+  "About": {
+    "metaData": {
+      "title": "About OIA",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "About OIA",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "boardOfMember": {
+      "title": "Board Of Directors",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.",
+      "cards": {
+        "1": {
+          "name": "H.E. Sultan Al Habsi",
+          "role": "Minister of Finance Chairman of the Board"
+        },
+        "2": {
+          "name": "H.E. Abdullah Al Harthy",
+          "role": "Undersecretary of the Minister of Finance Deputy Chairman"
+        },
+        "3": {
+          "name": "H.E. Abdullah Al Harthy",
+          "role": "Undersecretary of the Minister of Finance Deputy Chairman"
+        },
+        "4": {
+          "name": "H.E. Dr. Saud Al Habsi",
+          "role": "Minister of Agriculture, Fisheries, and Water Resources"
+        }
+      }
+    },
+    "oiamanagement": {
+      "title": "OIA Management",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.",
+      "cards": {
+        "1": {
+          "name": "HE Sultan Al Habsi",
+          "role": "Minister of Finance Chairman of the Board"
+        },
+        "2": {
+          "name": "HE Abdullah Al Harthy",
+          "role": "Undersecretary of the Minister of Finance Deputy Chairman"
+        },
+        "3": {
+          "name": "HE Abdullah Al Harthy",
+          "role": "Undersecretary of the Minister of Finance Deputy Chairman"
+        },
+        "4": {
+          "name": "HE Dr. Saud Al Habsi",
+          "role": "Minister of Agriculture, Fisheries, and Water Resources"
+        }
+      }
+    },
+    "aboutWithdata": {
+      "title": "Governance and Transparency",
+      "paragraphs": [
+        {
+          "id": 1,
+          "text": "At OIA, we aim to build trust and reputation based on transparency and good governance. As such, we apply the best international practices in management to guarantee the enforcement of an effective and flexible system."
+        }
+      ]
+    },
+    "about-oia-para-img": {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500."
+    }
+  },
+  "In-Country": {
+    "metaData": {
+      "title": "In Country Value",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "In-Country Value",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "about": {
+      "image": {
+        "alt": "about banner"
+      },
+      "title": "In-Country Value Brief",
+      "paragraphs": {
+        "first": "The Oman Investment Authority (oia) is a member in the International Forum of Sovereign Wealth Funds (IFSWF) since April 2015.",
+        "second": "Founded in  2009, IFSWF is a voluntary group of Sovereign Wealth Funds (SWFs) which meets to exchange views on issues of common interest and to facilitate adoption by members"
+      }
+    },
+    "qimam-component": {
+      "image": {
+        "alt": "qimam banner"
+      },
+      "title": "Qimam",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.",
+      "btnTitle": "Visit Qimam"
+    },
+    "profile": {
+      "title": "ICV Mandatory",
+      "cards": {
+        "1": {
+          "name": "ICV",
+          "role": "Undersecretary of the Ministry of Finance Deputy Chairman"
+        },
+        "2": {
+          "name": "ICV",
+          "role": "Undersecretary of the Ministry of Finance Deputy Chairman"
+        },
+        "3": {
+          "name": "ICV",
+          "role": "Undersecretary of the Minister of Finance Deputy Chairman"
+        },
+        "4": {
+          "name": "ICV",
+          "role": "Minister of Agriculture, Fisheries, and Water Resources"
+        }
+      },
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    }
+  },
+  "Footer": {
+    "title": "CONTACT US",
+    "title-one": "Let's Connect!",
+    "title-two": "Reach Out to Us Today",
+    "title-para": "Your Voice Matters! Whether you have questions, ideas to explore, we're here to listen and collaborate.",
+    "btn-text": "CONTACT US",
+    "follow-h": "Follow Us On",
+    "oia": "Oman Investment Authority",
+    "build-no": "Building No: 70",
+    "way-no": "Way Number: 3430",
+    "tele-one": "Telephone: ",
+    "address": "Street Name: Jamiat Al Duwal Al Arabiah Al Khuwair Muscat P.C 100, Oman",
+    "oia-w": "OIA Whistleblowing",
+    "email-oia": "Email: whistleblowing@oia.gov.com",
+    "tele-two": "Telephone: +968 2474 5700",
+    "audit-cc": "Audit Committee Chairman",
+    "email-ac": "Email: AC.Chairman@oia.gov.om",
+    "eac-one": "for general enquiries please email us at",
+    "eac-two": "info@oia.gov.om",
+    "copy-right": "Copyright © 2024 Oman Investment Authority . All rights reserved",
+    "invest-rel": "Investors Relations",
+    "locate": "Locate Us",
+    "invest-email": "Email: inverstorelations@oia.gov.om",
+    "contact-info":"Contact Information"
+  },
+  "National-Economy": {
+    "metaData": {
+      "title": "National Economy",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "National Economy",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "stabilization": {
+      "title": "Stabilization",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+    },
+    "attracting_fdi": {
+      "title": "Attracting FDI",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500"
+    },
+    "credit_rating": {
+      "title": "Credit Rating",
+      "description": "At OIA, we are committed to driving economic diversification in Oman. Through strategic investments and partnerships, we aim to create new opportunities, foster innovation, and support sustainable growth.",
+      "cards": {
+        "1": {
+          "id": 1,
+          "src": "/assets/images/national-economy/trsansforming-economy.svg",
+          "isText": false,
+          "isImage": true
+        },
+        "2": {
+          "id": 2,
+          "title": "Transforming the Economy",
+          "number": "92%",
+          "isText": true,
+          "isImage": false
+        },
+        "3": {
+          "id": 3,
+          "src": "/assets/images/national-economy/new-opportunities.svg",
+          "isText": false,
+          "isImage": true
+        },
+        "4": {
+          "id": 4,
+          "title": "Creating New Opportunities",
+          "number": "53%",
+          "isText": true,
+          "isImage": false
+        },
+        "5": {
+          "id": 5,
+          "title": "Economic Impact",
+          "number": "89%",
+          "isText": true,
+          "isImage": false
+        },
+        "6": {
+          "id": 6,
+          "src": "/assets/images/national-economy/economic-impact.svg",
+          "isText": false,
+          "isImage": true
+        },
+        "7": {
+          "id": 7,
+          "title": "Driving Innovation and Growth",
+          "number": "72%",
+          "isText": true,
+          "isImage": false
+        },
+        "8": {
+          "id": 8,
+          "src": "/assets/images/national-economy/innovation-growth.svg",
+          "isText": false,
+          "isImage": true
+        }
+      }
+    }
+  },
+  "Future-Fund-Oman": {
+    "metaData": {
+      "title": "Future Fund Oman",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "Image-Banner": {
+      "title": "Future Fund Oman",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.",
+      "image": "/assets/images/future-fund-oman/future-fund-oman-bnr.svg"
+    },
+    "Amount": {
+      "para": "OIA was established by the merger of the 'State General Reserve Fund' and 'Oman Investment Fund'.",
+      "currency": "OMR",
+      "amount": "2,000,000,000"
+    },
+    "Future-Fund-Om-Slider-Title-Para": {
+      "title": "OIA Companies",
+      "para": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+    },
+    "Future-Fund-Om-Slider": {
+      "slider-one": {
+        "id": "1",
+        "src": "/assets/images/future-fund-oman/slider-img-1.svg",
+        "alt": "Green Energy",
+        "title": "Green Energy"
+      },
+      "slider-two": {
+        "id": "2",
+        "src": "/assets/images/future-fund-oman/slider-img-2.svg",
+        "alt": "Fisheries",
+        "title": "Fisheries"
+      },
+      "slider-three": {
+        "id": "3",
+        "src": "/assets/images/future-fund-oman/slider-img-1.svg",
+        "alt": "Agriculture",
+        "title": "Agriculture"
+      }
+    },
+    "Fund-Allocation": {
+      "title": "Fund Allocation",
+      "para": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "Fund-Allocation-cards": {
+      "card-one": {
+        "id": "1",
+        "src": "/assets/images/future-fund-oman/local-direct-investment.svg"
+      },
+      "card-two": {
+        "id": "2",
+        "title": "Local Direct Investments",
+        "percent": "90%"
+      },
+      "card-three": {
+        "id": "3",
+        "title": "SMEs",
+        "percent": "7%"
+      },
+      "card-four": {
+        "id": "4",
+        "src": "/assets/images/future-fund-oman/sme.svg"
+      },
+      "card-five": {
+        "id": "5",
+        "title": "Startups",
+        "percent": "3%"
+      },
+      "card-six": {
+        "id": "6",
+        "src": "/assets/images/future-fund-oman/startups.svg"
+      }
+    }
+  },
+  "Future-Generation-Fund": {
+    "metaData": {
+      "title": "Future Generation Fund",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "image-Banner": {
+      "title": "Future Generation Fund",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed.",
+      "image": "/assets/images/future-generation-fund/future-gen-fund-bnr.svg"
+    },
+    "About-Future-Gen-Fund": {
+      "title": "About Future Generation Fund",
+      "paragraphs": {
+        "first": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "second": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the"
+      },
+      "src": "/assets/images/future-generation-fund/future-fund-bnr.svg"
+    },
+    "Future-Gen-Fund-Allocation": {
+      "title": "Future Generations Fund Allocation",
+      "description": "At OIA, we are committed to driving economic diversification in Oman. Through strategic investments and partnerships, we aim to create new opportunities, foster innovation, and support sustainable growth.",
+      "cards": [
+        {
+          "id": 1,
+          "src": "/assets/images/future-generation-fund/fund-allocation-1.svg",
+          "isText": false,
+          "isImage": true
+        },
+        {
+          "id": 2,
+          "title": "Lorem Ipsum",
+          "number": "92%",
+          "isText": true,
+          "isImage": false
+        },
+        {
+          "id": 3,
+          "src": "/assets/images/future-generation-fund/fund-allocation-2.svg",
+          "isText": false,
+          "isImage": true
+        },
+        {
+          "id": 4,
+          "title": "Lorem Ipsum",
+          "number": "53%",
+          "isText": true,
+          "isImage": false
+        },
+        {
+          "id": 5,
+          "title": "Lorem Ipsum",
+          "number": "89%",
+          "isText": true,
+          "isImage": false
+        },
+        {
+          "id": 6,
+          "src": "/assets/images/future-generation-fund/fund-allocation-3.svg",
+          "isText": false,
+          "isImage": true
+        },
+        {
+          "id": 7,
+          "title": "Lorem Ipsum",
+          "number": "72%",
+          "isText": true,
+          "isImage": false
+        },
+        {
+          "id": 8,
+          "src": "/assets/images/future-generation-fund/fund-allocation-4.svg",
+          "isText": false,
+          "isImage": true
+        }
+      ]
+    },
+    "Fund-Allocation": {
+      "title": "Fund Allocation",
+      "para": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "Fund-Allocation-cards": {
+      "card-one": {
+        "id": "1",
+        "src": "/assets/images/future-fund-oman/local-direct-investment.svg"
+      },
+      "card-two": {
+        "id": "2",
+        "title": "Local Direct Investments",
+        "percent": "90%"
+      },
+      "card-three": {
+        "id": "3",
+        "title": "SMEs",
+        "percent": "7%"
+      },
+      "card-four": {
+        "id": "4",
+        "src": "/assets/images/future-fund-oman/sme.svg"
+      },
+      "card-five": {
+        "id": "5",
+        "title": "Startups",
+        "percent": "3%"
+      },
+      "card-six": {
+        "id": "6",
+        "src": "/assets/images/future-fund-oman/startups.svg"
+      }
+    },
+    "Key-Investments-Slider-Title-Para": {
+      "title": "OIA Companies",
+      "para": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+    },
+    "Key-Investments-Slider": {
+      "slider-one": {
+        "id": "1",
+        "src": "/assets/images/future-fund-oman/slider-img-1.svg",
+        "alt": "Green Energy",
+        "title": "Green Energy"
+      },
+      "slider-two": {
+        "id": "2",
+        "src": "/assets/images/future-fund-oman/slider-img-2.svg",
+        "alt": "Fisheries",
+        "title": "Fisheries"
+      },
+      "slider-three": {
+        "id": "3",
+        "src": "/assets/images/future-fund-oman/slider-img-1.svg",
+        "alt": "Agriculture",
+        "title": "Agriculture"
+      }
+    }
+  },
+  "News": {
+    "metaData": {
+      "title": "News",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "News",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "search": "Search",
+    "news": [
+      {
+        "id": "1",
+        "title": "OIA pursues its second national investment in semiconductors",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "2",
+        "title": "Oman investment authority launches future fund oman",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "3",
+        "title": "OIA launches its social investment policy and a new icv platform",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "4",
+        "title": "OIA pursues its second national investment in semiconductors",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "5",
+        "title": "OIA and iia sign an MOC to utilize innovation and research in driving",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "6",
+        "title": "OIA pursues its second national investment in semiconductors",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "7",
+        "title": "OIA launches its social investment policy and a new icv platform",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "8",
+        "title": "Oman investment authority invests in our next energy continuing",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "9",
+        "title": "OIA launches its social investment policy and a new icv platform",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "10",
+        "title": "OIA pursues its second national investment in semiconductors",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "11",
+        "title": "Oman investment authority launches future fund oman",
+        "date": "2024-07-04"
+      },
+      {
+        "id": "12",
+        "title": "OIA launches its social investment policy and a new icv platform",
+        "date": "2024-07-04"
+      }
+    ]
+  },
+  "News-Detail": {
+    "metaData": {
+      "title": "News Details",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "Oman set to become GCC's fastest growing economy in 2024",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "placeholderText": "Your Email",
+    "btnText": "Submit",
+    "shareText": "Share",
+    "newsDetailContent": {
+      "title": "Highlights",
+      "paragraphs": [
+        {
+          "id": 1,
+          "text": "Oman Investment Authority (OIA) announced the launch of its Social Investment Policy for OIA Companies as well as the launch of ‘Q imam’ platform for inquiries related to In-country Value (ICV). It also announced the second version of the mandatory list for OIA Companies. In addition, OIA Companies signed OMR 6 million worth of cooperation agreements and programs. This all builds on the success achieved by OIA in the ICV sector in line with Oman Vision 2040 targets which aim to create a substantial shift towards a knowledge-based economy, establish a stimulating environment for entrepreneurs and innovation-based companies, and foster and attract advanced technologies."
+        },
+        {
+          "id": 2,
+          "text": "Oman Investment Authority (OIA) announced the launch of its Social Investment Policy for OIA Companies as well as the launch of ‘Q imam’ platform for inquiries related to In-country Value (ICV). It also announced the second version of the mandatory list for OIA Companies. In addition, OIA Companies signed OMR 6 million worth of cooperation agreements and programs. This all builds on the success achieved by OIA in the ICV sector in line with Oman Vision 2040 targets which aim to create a substantial shift towards a knowledge-based economy, establish a stimulating environment for entrepreneurs and innovation-based companies, and foster and attract advanced technologies."
+        },
+        {
+          "id": 3,
+          "text": "Oman Investment Authority (OIA) announced the launch of its Social Investment Policy for OIA Companies as well as the launch of ‘Q imam’ platform for inquiries related to In-country Value (ICV). It also announced the second version of the mandatory list for OIA Companies. In addition, OIA Companies signed OMR 6 million worth of cooperation agreements and programs. This all builds on the success achieved by OIA in the ICV sector in line with Oman Vision 2040 targets which aim to create a substantial shift towards a knowledge-based economy, establish a stimulating environment for entrepreneurs and innovation-based companies, and foster and attract advanced technologies."
+        }
+      ]
+    },
+    "highlightsList": {
+      "title": "Highlights",
+      "list": [
+        {
+          "id": 1,
+          "text": "Finance the state’s general budget."
+        },
+        {
+          "id": 2,
+          "text": "Manage and develop the Sultanate’s funds and assets."
+        },
+        {
+          "id": 3,
+          "text": "Achieve financial reserves."
+        },
+        {
+          "id": 4,
+          "text": "Implement government policies to advance the targeted economic sectors."
+        }
+      ]
+    },
+    "newsInboxHeading": {
+      "title": "Direct to your inbox",
+      "description": "OIA News and insights Delivered directly to your inbox"
+    }
+  },
+  "Joint-Ventures": {
+    "metaData": {
+      "title": "Joint Ventures",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "Joint Ventures",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "About-Joint-Ventures": {
+      "title": "About Joint Ventures",
+      "paragraphs": {
+        "first": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+      }
+    },
+    "Joint-Ventures-Cards": {
+      "title": "Joint Ventures",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500",
+      "cards": [
+        {
+          "id": 1,
+          "title": "Vietnam Oman Investment (VOI)",
+          "description": "Vietnam Oman Investment (VOI) was established in 2008 as a joint venture between Oman Investment Authority (OIA) and the State Capital Investment Corporation of Vietnam with an initial capital of USD 75 million..."
+        },
+        {
+          "id": 2,
+          "title": "Oman India Joint Investment Fund (OIJIF)",
+          "description": "Oman India Joint Investment Fund (OIJIF) was established in 2011 as a joint venture between Oman Investment Authority (OIA) and the State Bank of India to invest in various sectors within India."
+        },
+        {
+          "id": 3,
+          "title": "Uzbek Oman Investment Joint Venture (UOI)",
+          "description": "Uzbek Oman Investment Joint Venture (UOI) was established in 2010 as a joint venture between Oman Investment Authority (OIA) and the Fund for Reconstruction and Development of Uzbekistan (FRD) to invest..."
+        },
+        {
+          "id": 4,
+          "title": "Oman Brunei Investment Company",
+          "description": "Oman Brunei Investment Company was established in 2009 as 50-50 joint venture between Oman Investment Authority (OIA) and Brunei Investment Authority (BIA). The JV was founded with an initial capital of USD 100 million..."
+        },
+        {
+          "id": 5,
+          "title": "Spain Oman Private Equity Fund",
+          "description": "The Spain Oman Private Equity Fund was established in 2014 with a capital of EUR200 million. It is a 50-50 joint investment between OIA and COFIDES a Spanish state-owned company, ..."
+        },
+        {
+          "id": 6,
+          "title": "Pak Oman Investment Company Limited",
+          "description": "Pak Oman Investment Company Limited was established in 2001 as a joint venture between the Omani and Pakistani governments with an initial capital of USD 100 million. The JV's..."
+        }
+      ]
+    }
+  },
+  "National-Development-Fund": {
+    "metaData": {
+      "title": "National Development Fund",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "National Development Fund",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "About-National-Dev-Fund": {
+      "title": "About National Development Fund",
+      "paragraphs": {
+        "first": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "second": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+      }
+    },
+    "National-Development-Facts-Figures": {
+      "title": "National Development Facts and Figures",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "cards": [
+        {
+          "id": 1,
+          "figure": "50%",
+          "title": "Lorem Ipsum",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, justo a tincidunt ullamcorper, nulla ligula tempor elit."
+        },
+        {
+          "id": 2,
+          "figure": "50%",
+          "title": "Lorem Ipsum",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, justo a tincidunt ullamcorper, nulla ligula tempor elit."
+        },
+        {
+          "id": 3,
+          "figure": "50%",
+          "title": "Lorem Ipsum",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce fermentum, justo a tincidunt ullamcorper, nulla ligula tempor elit."
+        }
+      ]
+    },
+    "Fund-Allocation-Grid": {
+      "title": "Fund Allocation",
+      "description": "At OIA, we are committed to driving economic diversification in Oman. Through strategic investments and partnerships, we aim to create new opportunities, foster innovation, and support sustainable growth.",
+      "cards": [
+        {
+          "id": 1,
+          "src": "/assets/images/ndf-imgs/fund-allocation-img-1.svg",
+          "isText": false,
+          "isImage": true
+        },
+        {
+          "id": 2,
+          "title": "Lorem Ipsum",
+          "number": "92%",
+          "isText": true,
+          "isImage": false
+        },
+        {
+          "id": 3,
+          "src": "/assets/images/ndf-imgs/fund-allocation-img-2.svg",
+          "isText": false,
+          "isImage": true
+        },
+        {
+          "id": 4,
+          "title": "Lorem Ipsum",
+          "number": "92%",
+          "isText": true,
+          "isImage": false
+        },
+        {
+          "id": 5,
+          "title": "Lorem Ipsum",
+          "number": "92%",
+          "isText": true,
+          "isImage": false
+        },
+        {
+          "id": 6,
+          "src": "/assets/images/ndf-imgs/fund-allocation-img-3.svg",
+          "isText": false,
+          "isImage": true
+        },
+        {
+          "id": 7,
+          "title": "Lorem Ipsum",
+          "number": "92%",
+          "isText": true,
+          "isImage": false
+        },
+        {
+          "id": 8,
+          "src": "/assets/images/ndf-imgs/fund-allocation-img-4.svg",
+          "isText": false,
+          "isImage": true
+        }
+      ]
+    },
+    "Private-Equities-Grid": {
+      "title": "Private Equities",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      "cards": [
+        {
+          "id": 1,
+          "image": "/assets/images/ndf-imgs/pri-eqt-img-1.svg",
+          "title": "Real Estate",
+          "description": "Invest smarter in real estate, find prime properties and expert insights"
+        },
+        {
+          "id": 2,
+          "image": "/assets/images/ndf-imgs/pri-eqt-img-2.svg",
+          "title": "Private Equity",
+          "description": "Explore exclusive investment opportunities in private equity with us."
+        },
+        {
+          "id": 3,
+          "image": "/assets/images/ndf-imgs/pri-eqt-img-3.svg",
+          "title": "Public Market",
+          "description": "Discover diverse investment opportunities in the public market."
+        },
+        {
+          "id": 4,
+          "image": "/assets/images/ndf-imgs/pri-eqt-img-4.svg",
+          "title": "Joint Ventures",
+          "description": "Explore lucrative joint venture opportunities."
+        }
+      ]
+    },
+    "Companies-Slider-Title-Para": {
+      "title": "OIA Companies",
+      "para": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+    },
+    "Companies-Slider": {
+      "slider-one": {
+        "id": "1",
+        "src": "/assets/images/home-slider-img-1.svg",
+        "alt": "National Projects",
+        "title": "National Projects"
+      },
+      "slider-two": {
+        "id": "2",
+        "src": "/assets/images/home-slider-img-2.svg",
+        "alt": "Upcoming IPOs",
+        "title": "Upcoming IPOs"
+      },
+      "slider-three": {
+        "id": "3",
+        "src": "/assets/images/home-slider-img-3.svg",
+        "alt": "Our Divestments",
+        "title": "Our Divestments"
+      },
+      "slider-four": {
+        "id": "4",
+        "src": "/assets/images/home-slider-img-4.svg",
+        "alt": "New Investments",
+        "title": "New Investments"
+      }
+    }
+  },
+  "Oman": {
+    "metaData": {
+      "title": "Oman",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "imageBanner": {
+      "title": "Sultanate of Oman",
+      "description": "The Sultanate of Oman is located on the southeast coast of the Arabian Peninsula. It has a population of 4,471,148 million on a land of 309,500 square kilometers as estimated at the end of September 2020 by the National Center for Statistics and Information.",
+      "image": "/assets/images/sultanate-oman-imgs/banner-img.svg"
+    },
+    "sultanateofOman": {
+      "image": "/assets/images/sultanate-oman-imgs/about-oman-img.svg",
+      "alt": "Sultanate of Oman",
+      "title": "Sultanate of Oman",
+      "paragraphs": {
+        "paraOne": "The Sultanate of Oman is located on the southeast coast of the Arabian Peninsula. It has a population of 4,471,148 million on a land of 309,500 square kilometers as estimated at the end of September 2020 by the National Center for Statistics and Information. Oman's weather varies between hot humid in the coastal areas, hot dry in desert interiors, modest and cold in the mountains, "
+      }
+    },
+    "peopleOfOman": {
+      "image": "/assets/images/sultanate-oman-imgs/oman-people-img.svg",
+      "alt": "People of Oman",
+      "title": "People of Oman",
+      "paragraphs": {
+        "paraOne": "Like the diversity of the environment and terrains in Oman, Omani people's features differ as well. The desert dwellers' features are different from those of mountain dwellers, and the features of the urban population are different from those residents of remote villages who depend on agriculture and livestock for their livelihood."
+      }
+    },
+    "maritimeTradeRoute": {
+      "image": "/assets/images/sultanate-oman-imgs/maritime-trade-route-img.svg",
+      "alt": "Maritime Trade Route",
+      "title": "Maritime Trade Route",
+      "paragraphs": {
+        "paraOne": "At the mouth of the Arabian Gulf and in the path of trade routes to East Africa and the Orient, Oman built a commercial empire centuries ago. Historical sources show that over a thousand years ago, sailors travelled on the seas between Oman and China."
+      }
+    },
+    "omanInWorldEco": {
+      "title": "Oman in World Economic Indicators",
+      "para": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    "numberCards": {
+      "cardOne": {
+        "number": "63.6",
+        "subtitle": "Global Competitiveness index, 2022"
+      },
+      "cardTwo": {
+        "number": "43",
+        "subtitle": "Global Competitiveness index, 2022"
+      },
+      "cardThree": {
+        "number": "58.3",
+        "subtitle": "Economic Freedom Index, 2023"
+      }
+    },
+    "Economy": {
+      "economyTiltePara": {
+        "title": "Economy",
+        "para": "Oman's economy has witnessed a steady growth over the past two decades thanks to the Sultanate geographical location on the main trading route which connects Europe and Asia, and in the heart of a vast area stretching from East Africa to the southern border of Central Asia and India reaching to Pakistan. Oil is regarded as the backbone of economic growth in the Sultanate, while plans are underway."
+      },
+      "cardsData": {
+        "cardOne": {
+          "src": "/assets/images/sultanate-oman-imgs/economy-img-1.svg"
+        },
+        "cardTwo": {
+          "title": "Population",
+          "number": "4.93",
+          "subText": "million"
+        },
+        "cardThree": {
+          "src": "/assets/images/sultanate-oman-imgs/economy-img-2.svg"
+        },
+        "cardFour": {
+          "title": "GDP (Billion. R.O.)",
+          "number": "44.08",
+          "subText": ""
+        },
+        "cardFive": {
+          "title": "GDP per Capita In R.O.",
+          "number": "8,936.1",
+          "subText": ""
+        },
+        "cardSix": {
+          "src": "/assets/images/sultanate-oman-imgs/economy-img-3.svg"
+        },
+        "cardSeven": {
+          "title": "Average Daily Production of oil",
+          "number": "1,064",
+          "subText": ""
+        },
+        "cardEight": {
+          "src": "/assets/images/sultanate-oman-imgs/economy-img-4.svg"
+        }
+      }
+    }
+  },
+  "Annual-Reports": {
+    "metaData": {
+      "title": "Annual Reports",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "Annual Reports",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "ReportsGrid": {
+      "title": "Annual Reports",
+      "para": "",
+      "ReportCards": [
+        {
+          "id": 1,
+          "title": "Year 2023"
+        },
+        {
+          "id": 2,
+          "title": "Year 2022"
+        },
+        {
+          "id": 3,
+          "title": "Year 2021"
+        }
+      ]
+    }
+  },
+  "Injaz-Ejaz": {
+    "metaData": {
+      "title": "Injaz & Eejaz",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "Injaz & Eejaz",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "InjazEjazGrid": {
+      "title": "Annual Reports of Oman’s unique geographical location",
+      "para": "The Sultanate of Oman’s unique geographical location, stable economy, and robust infrastructure make it an ideal landscape for investment, compelled by the government’s ",
+      "InjazEjazCards": [
+        {
+          "id": 1,
+          "title": "Injaz & Eejaz 2023"
+        },
+        {
+          "id": 2,
+          "title": "Injaz & Eejaz 2022"
+        },
+        {
+          "id": 3,
+          "title": "Injaz & Eejaz 2021"
+        },
+        {
+          "id": 4,
+          "title": "Injaz & Eejaz 2020"
+        },
+        {
+          "id": 5,
+          "title": "Injaz & Eejaz 2019"
+        },
+        {
+          "id": 6,
+          "title": "Injaz & Eejaz 2018"
+        }
+      ]
+    }
+  },
+  "Careers": {
+    "metaData": {
+      "title": "Careers",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "Join OIA",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "WhyJoinOIA": {
+      "title": "Why Join OIA",
+      "paragraphs": {
+        "first": "As a sovereign wealth fund, we hold and execute long term investments in diverse asset classes worldwide. This offers you great depth and breadth of opportunities and worldwide exposure to develop your career in global investment and fund management.",
+        "second": "OIA is characterized by distinctive work environment and offer competitive benefits including:"
+      }
+    },
+    "OIALookingFor": {
+      "title": "What Are We Looking For",
+      "paragraphs": [
+        {
+          "id": 1,
+          "subHeading": "Relevant Experience:",
+          "text": "Specify the required years of experience in the feild or indsustry."
+        },
+        {
+          "id": 2,
+          "subHeading": "Education:",
+          "text": "Outline any necessary degrees, certifications, or qulifications.",
+          "text2": "Technical Skill's: List specific software, tools, or technologies required for the role"
+        }
+      ]
+    },
+    "OIAGraduateScheme": {
+      "title": "OIA Graduate Scheme",
+      "description": "Oman's economy has witnessed a steady growth over the past two decades thanks to the Sultanate geographical location on the main trading route which connects Europe and Asia, and in the heart of a vast area stretching from East Africa to the southern border of Central Asia and India reaching to Pakistan. Oil is regarded as the backbone of economic growth in the Sultanate, while plans are underway to diversify sources of income and empower the economy by attracting new investments that will help create jobs and take advantage of other booming sectors such as tourism, agriculture, industry, mining and others."
+    },
+    "ApplyForOIA": {
+      "title": "What Are We Looking For",
+      "description": "Like the diversity of the environment and terrains in Oman, Omani peoples features differ as well. The desert dwellers features are different from those of mountain dwellers, and the features of the urban population are different from those residents of remote villages who depend on agriculture and livestock for their livelihood.",
+      "btnTitle": "Apply Now"
+    }
+  },
+  "Contact": {
+    "metaData": {
+      "title": "Contact Us",
+      "description": "OIA was established on 4th June 2020, by the merger of the 'state General Reserve Fund' and 'Oman Investment Fund', under the Royal Decree No. 61/2020. OIA is the sovereign wealth fund entity in Oman which invests locally and internationally to achieve financial stability and diversity for the Sultanates economy."
+    },
+    "banner": {
+      "title": "Get in Touch",
+      "description": "This is dummy copy. It is not meant to be read. It has been placed here solely to demonstrate the look and feel of finished, typeset text. Only for show. He who searches for meaning here will be sorely disappointed."
+    },
+    "contactInfo": {
+      "emailHeading": "Contact Details",
+      "phoneHeading": "Whistleblowing:",
+      "addressHeading": "Address:",
+      "phone": [
+        {
+          "id": 1,
+          "label": "Email",
+          "phoneNumber": "whistleblowing@oia.gov.om"
+        },
+        {
+          "id": 2,
+          "label": "Phone",
+          "phoneNumber": "+968 2474 5700"
+        }
+      ],
+      "address": [
+        {
+          "id": 1,
+          "label": "Building Number",
+          "value": "70"
+        },
+        {
+          "id": 2,
+          "label": "Way",
+          "value": "3430"
+        },
+        {
+          "id": 3,
+          "label": "",
+          "value": "Al Khuwair, Arab League Street"
+        },
+        {
+          "id": 4,
+          "label": "Postal Code",
+          "value": "100, Muscat, Oman"
+        }
+      ]
+        
+      
+    },
+    "formLabels": [
+      {
+        "id": 1,
+        "label": "Full Name",
+        "placeholder": "Your Full Name here"
+      },
+      {
+        "id": 2,
+        "label": "Email",
+        "placeholder": "Your Email here"
+      },
+      {
+        "id": 3,
+        "label": "Company",
+        "placeholder": "Your Company here"
+      },
+      {
+        "id": 4,
+        "label": "Phone Number",
+        "placeholder": "Your Phone Number here"
+      },
+      {
+        "id": 5,
+        "label": "Your Message",
+        "placeholder": ""
+      },
+      {
+        "id": 6,
+        "label": "Submit",
+        "placeholder": ""
+      }
+    ]
+  },
+  "Investor-Relations": {
+    "metaData": {
+      "title": "Investor Relations",
+      "description": "At OIA, we are committed to driving economic diversification in Oman. Through strategic investments and partnerships, we aim to create new opportunities, foster innovation, and support sustainable growth."
+    }
+  }
+}

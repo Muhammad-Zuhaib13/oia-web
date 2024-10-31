@@ -2,39 +2,39 @@ import { Formats } from "next-intl";
 import { getRequestConfig } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { locales, type Locale } from "./i18n.config";
+// import a from '@/app/locales'
+// function formatsFor(locale: Locale): Partial<Formats> {
+//   const localeFormats: Record<Locale, Partial<Formats>> = {
+//     "ar-eg": {
+//       number: {
+//         temperature: {
+//           style: "unit",
+//           unit: "celsius",
+//         },
+//       },
+//       dateTime: {
+//         longDay: {
+//           weekday: "long",
+//         },
+//       },
+//     },
+//     "en-us": {
+//       number: {
+//         temperature: {
+//           style: "unit",
+//           unit: "fahrenheit",
+//         },
+//       },
+//       dateTime: {
+//         longDay: {
+//           weekday: "long",
+//         },
+//       },
+//     },
+//   };
 
-function formatsFor(locale: Locale): Partial<Formats> {
-  const localeFormats: Record<Locale, Partial<Formats>> = {
-    "ar-eg": {
-      number: {
-        temperature: {
-          style: "unit",
-          unit: "celsius",
-        },
-      },
-      dateTime: {
-        longDay: {
-          weekday: "long",
-        },
-      },
-    },
-    "en-us": {
-      number: {
-        temperature: {
-          style: "unit",
-          unit: "fahrenheit",
-        },
-      },
-      dateTime: {
-        longDay: {
-          weekday: "long",
-        },
-      },
-    },
-  };
-
-  return localeFormats[locale];
-}
+//   return localeFormats[locale];
+// }
 
 export default getRequestConfig(async ({ locale }) => {
   if (!locales.includes(locale as Locale)) {
@@ -42,10 +42,10 @@ export default getRequestConfig(async ({ locale }) => {
   }
 
   return {
-    messages: (await import(`./locales/${locale}.json`))
+    messages: (await import(`@/app/locales/${locale}.json`))
       .default,
-    formats: {
-      ...formatsFor(locale as Locale),
-    },
+    // formats: {
+    //   ...formatsFor(locale as Locale),
+    // },
   };
 });

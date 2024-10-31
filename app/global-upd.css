@@ -1,0 +1,362 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+html {
+  scroll-behavior: smooth;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+}
+
+/* Font Files EN and AR */
+@font-face {
+    font-family: "din-alt-bold";
+    src: url("../app/fonts/DINAlternateBold.otf")
+      format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "din-alt-medium";
+    src: url("../app/fonts/DINAlternateMedium.otf")
+      format("truetype");
+    font-weight: 500;
+}
+@font-face {
+    font-family: "din-alt-regular";
+    src: url("../app/fonts/DINAlternateRegular.otf")
+      format("truetype");
+    font-weight: 400;
+}
+/* @font-face {
+    font-family: "ges-bold";
+    src: url("../app/fonts/GESndBookBold.ttf")
+      format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ges-medium";
+    src: url("../app/fonts/GESndBookMedium.ttf")
+      format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "ges-regular";
+    src: url("../app/fonts/GESndBookRegular.ttf")
+      format("truetype");
+    font-weight: 700;
+} */
+
+
+/* font variables */
+
+
+/* Light Dark Theme color variables */
+.light {
+  --text-white: #FFFFFF;
+  --text-brown: #9F8555;
+  --dark-brown: #5A4427;
+  --med-brown: #705729;
+  --ctaBorder: #F4C76C;
+  --ctaBorderless: #5A4427;
+  --text-black: #202020;
+  --text-dark-grey: #646464;
+}
+
+/* Root variable for Typography  */
+:root {
+
+  /* Font Variables */
+  --din-bold: "din-alt-bold";
+  --din-medium: "din-alt-medium";
+  --din-regular: "din-alt-regular";
+  --poppins: 'Poppins', sans-serif;
+  --ges-bold: "ges-bold";
+  --ges-medium: "ges-medium";
+  --ges-regular: "ges-regular";
+  
+
+  --bannerHeadingSize: 48px;
+  --bannerHeadingLineHeight: 55px;
+  --bannerHeadingFontFamily: var(--din-bold);
+  --bannerHeadingFontWeight: 700;
+  --bannerHeadingColor: var(--text-white);
+
+  --mainHeadingSize: 40px;
+  --mainHeadingLineHeight: 60px;
+  --mainHeadingFontFamily: var(--din-bold);
+  --mainHeadingFontWeight: 700;
+  --mainHeadingColor: var(--text-brown);
+
+  --secTitleSize: 40px;
+  --secTitleLineHeight: 48px;
+  --secTitleFontFamily: var(--din-bold);
+  --secTitleFontWeight: 700;
+  --secTitleColor: var(--text-brown);
+
+  --subHeadingFontSize: 24px;
+  --subHeadingLineHeight: 32px;
+  --subHeadingFontFamily: var(--din-bold);
+  --subHeadingFontWeight: 700;
+  --subHeadingColor: var(--dark-brown);
+
+  --contentFontSize: 18px;
+  --contentLineHeight: 26px;
+  --contentFontFamily: var(--din-regular);
+  --contentFontWeight: 400;
+  --contentColor: var(--text-black);
+  
+  --cardTitleFontSize: 18px;
+  --cardTitleLineHeight: 26px;
+  --cardTitleFontFamily: var(--din-medium);
+  --cardTitleFontWeight: 500;
+  --cardTitleColor: var(--med-brown);
+
+  --profileCardTitleFontSize: 20px;
+  --profileCardTitleLineHeight: 24px;
+  --profileCardTitleFontFamily: var(--din-bold);
+  --profileCardTitleFontWeight: 700;
+  --profileCardTitleColor: var(--text-white);
+
+  --newsMainTitleFontSize: 18px;
+  --newsMainTitleLineHeight: 26px;
+  --newsMainTitleFontFamily: var(--din-medium);
+  --newsMainTitleFontWeight: 500;
+  --newsMainTitleColor: var(--text-black);
+
+  --newsListTitleFontSize: 16px;
+  --newsListTitleLineHeight: 22px;
+  --newsListTitleFontFamily: var(--din-medium);
+  --newsListTitleFontWeight: 500;
+  --newsListTitleColor: var(--text-black);
+
+  --newsDateFontSize: 14px;
+  --newsDateLineHeight: 22px;
+  --newsDateFontFamily: var(--din-regular);
+  --newsDateFontWeight: 400;
+  --newsDateColor: var(--text-brown);
+
+  --ctaBorderFontSize: 18px;
+  --ctaBorderLineHeight: 22px;
+  --ctaBorderFontFamily: var(--din-medium);
+  --ctaBorderFontWeight: 500;
+  --ctaBorderColor: var(--ctaBorder);
+
+  --homeIndicatorsFontSize: 96px;
+  --homeIndicatorsFontFamily: var(--poppins);
+  --homeIndicatorsFontWeight: 700;
+
+  --homeIndicatorsSubSupFontSize: 24px;
+  --homeIndicatorsSubSupFontFamily: var(--poppins);
+  --homeIndicatorsSubSupFontWeight: 700;
+
+  --homeIndicatorsLabelFontSize: 18px;
+  --homeIndicatorsLabelLineHeight: 22px;
+  --homeIndicatorsLabelFontFamily: var(--din-regular);
+  --homeIndicatorsLabelFontWeight: 400 ;
+  --homeIndicatorsLabelColor: var(--text-dark-grey);
+
+  --innerIndicatorFontSize: 84px;
+  --innerIndicatorLineHeight: 125px;
+  --innerIndicatorFontFamily: var(--poppins);
+  --innerIndicatorFontWeight: 600;
+  --innerIndicatorColor: var(--text-brown);
+
+  --innerIndicatorsLabelFontSize: 24px;
+  --innerIndicatorsLabelLineHeight: 30px;
+  --innerIndicatorsLabelFontFamily: var(--din-medium);
+  --innerIndicatorsLabelFontWeight: 500;
+  --innerIndicatorsLabelColor: var(--text-brown);
+
+  --poppinsContentFontSize: 24px;
+  --poppinsContentLineHeight: 36px;
+  --poppinsContentFontFamily: var(--poppins);
+  --poppinsContentFontWeight: 500;
+  --poppinsContentColor: var(--text-brown);
+
+  --footerLabelFontSize: 20px;
+  --footerLabelLineHeight: 24px;
+  --footerLabelFontFamily: var(--din-bold);
+  --footerLabelFontWeight: 700;
+  --footerLabelColor: var(--text-white);
+
+  --footerContentFontSize: 16px;
+  --footerContentLineHeight: 18px;
+  --footerContentFontFamily: var(--din-medium);
+  --footerContentFontWeight: 500;
+  --footerContentColor: var(--text-white);
+
+  --copyRightFontSize: 14px;
+  --copyRightLineHeight: 26px;
+  --copyRightFontFamily: var(--din-medium);
+  --copyRightFontWeight: 500;
+  --copyRightColor: var(--text-white);
+
+}
+
+.bannerHeading {
+  --bannerHeadingSize: 48px;
+  --bannerHeadingLineHeight: 55px;
+  --bannerHeadingFontFamily: var(--din-bold);
+  --bannerHeadingFontWeight: 700;
+  --bannerHeadingColor: var(--text-white);
+}
+.mainHeading {
+  --mainHeadingSize: 40px;
+  --mainHeadingLineHeight: 60px;
+  --mainHeadingFontFamily: var(--din-bold);
+  --mainHeadingFontWeight: 700;
+  --mainHeadingColor: var(--text-brown);
+}
+.secTitle {
+  --secTitleSize: 40px;
+  --secTitleLineHeight: 48px;
+  --secTitleFontFamily: var(--din-bold);
+  --secTitleFontWeight: 700;
+  --secTitleColor: var(--text-brown);
+}
+.subHeading {
+  --subHeadingFontSize: 24px;
+  --subHeadingLineHeight: 32px;
+  --subHeadingFontFamily: var(--din-bold);
+  --subHeadingFontWeight: 700;
+  --subHeadingColor: var(--dark-brown);
+}
+.content {
+  --contentFontSize: 18px;
+  --contentLineHeight: 26px;
+  --contentFontFamily: var(--din-regular);
+  --contentFontWeight: 400;
+  --contentColor: var(--text-black);
+}
+.cardTitle {
+  --cardTitleFontSize: 18px;
+  --cardTitleLineHeight: 26px;
+  --cardTitleFontFamily: var(--din-medium);
+  --cardTitleFontWeight: 500;
+  --cardTitleColor: var(--med-brown);
+}
+.profileCard {
+  --profileCardTitleFontSize: 20px;
+  --profileCardTitleLineHeight: 24px;
+  --profileCardTitleFontFamily: var(--din-bold);
+  --profileCardTitleFontWeight: 700;
+  --profileCardTitleColor: var(--text-white);
+}
+.newsMainTitle {
+  --newsMainTitleFontSize: 18px;
+  --newsMainTitleLineHeight: 26px;
+  --newsMainTitleFontFamily: var(--din-medium);
+  --newsMainTitleFontWeight: 500;
+  --newsMainTitleColor: var(--text-black);
+}
+.newsListsTitle {
+  --newsListTitleFontSize: 16px;
+  --newsListTitleLineHeight: 22px;
+  --newsListTitleFontFamily: var(--din-medium);
+  --newsListTitleFontWeight: 500;
+  --newsListTitleColor: var(--text-black);
+}
+.newsDate {
+  --newsDateFontSize: 14px;
+  --newsDateLineHeight: 22px;
+  --newsDateFontFamily: var(--din-regular);
+  --newsDateFontWeight: 400;
+  --newsDateColor: var(--text-brown);
+}
+.ctaBordered {
+  --ctaBorderFontSize: 18px;
+  --ctaBorderLineHeight: 22px;
+  --ctaBorderFontFamily: var(--din-medium);
+  --ctaBorderFontWeight: 500;
+  --ctaBorderColor: 1px solid var(--ctaBorder);
+}
+.cta {
+  --ctaBorderFontSize: 18px;
+  --ctaBorderLineHeight: 22px;
+  --ctaBorderFontFamily: var(--din-medium);
+  --ctaBorderFontWeight: 500;
+}
+.homeIndicators {
+  --homeIndicatorsFontSize: 96px;
+  --homeIndicatorsFontFamily: var(--poppins);
+  --homeIndicatorsFontWeight: 700;
+}
+.homeIndicatorsSubSup {
+  --homeIndicatorsSubSupFontSize: 24px;
+  --homeIndicatorsSubSupFontFamily: var(--poppins);
+  --homeIndicatorsSubSupFontWeight: 700;
+}
+.homeIndicatorsLabel {
+  --homeIndicatorsLabelFontSize: 18px;
+  --homeIndicatorsLabelLineHeight: 22px;
+  --homeIndicatorsLabelFontFamily: var(--din-regular);
+  --homeIndicatorsLabelFontWeight: 400 ;
+  --homeIndicatorsLabelColor: var(--text-dark-grey);
+}
+.innerIndicators {
+  --innerIndicatorFontSize: 84px;
+  --innerIndicatorLineHeight: 125px;
+  --innerIndicatorFontFamily: var(--poppins);
+  --innerIndicatorFontWeight: 600;
+  --innerIndicatorColor: var(--text-brown);
+}
+.innerIndicatorsLabels {
+  --innerIndicatorsLabelFontSize: 24px;
+  --innerIndicatorsLabelLineHeight: 30px;
+  --innerIndicatorsLabelFontFamily: var(--din-medium);
+  --innerIndicatorsLabelFontWeight: 500;
+  --innerIndicatorsLabelColor: var(--text-brown);
+}
+.poppinsInContent {
+  --poppinsContentFontSize: 24px;
+  --poppinsContentLineHeight: 36px;
+  --poppinsContentFontFamily: var(--poppins);
+  --poppinsContentFontWeight: 500;
+  --poppinsContentColor: var(--text-brown);
+}
+.footerLabel {
+  --footerLabelFontSize: 20px;
+  --footerLabelLineHeight: 24px;
+  --footerLabelFontFamily: var(--din-bold);
+  --footerLabelFontWeight: 700;
+  --footerLabelColor: var(--text-white);
+}
+.footerContent {
+  --footerContentFontSize: 16px;
+  --footerContentLineHeight: 18px;
+  --footerContentFontFamily: var(--din-medium);
+  --footerContentFontWeight: 500;
+  --footerContentColor: var(--text-white);
+}
+.copyRight {
+  --copyRightFontSize: 14px;
+  --copyRightLineHeight: 26px;
+  --copyRightFontFamily: var(--din-medium);
+  --copyRightFontWeight: 500;
+  --copyRightColor: var(--text-white);
+}
+
+
+
+
+
+
+
+  
+
+ 
+
+
+  
+
+  
+
+  
+
+ 

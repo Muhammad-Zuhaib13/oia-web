@@ -1,0 +1,2099 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Online2PDF.com</Author>
+  <LastAuthor>Salim Saleh Al Barwani</LastAuthor>
+  <TotalTime>0</TotalTime>
+  <Created>2024-10-21T10:35:32Z</Created>
+  <LastSaved>2024-10-21T08:50:26Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>15900</WindowHeight>
+  <WindowWidth>29235</WindowWidth>
+  <WindowTopX>4680</WindowTopX>
+  <WindowTopY>495</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:CharSet="204" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2440927387184">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss"/>
+   <Interior ss:Color="#F4EBE4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2440927387204">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+   </Borders>
+   <Interior ss:Color="#F4EBE4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2440927387224">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+   </Borders>
+   <Interior ss:Color="#F4EBE4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2440927384496">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+   </Borders>
+   <Interior ss:Color="#F4EBE4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m2440927384516">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+   </Borders>
+   <Interior ss:Color="#F4EBE4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s15">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="44" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="20" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="18" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Interior ss:Color="#F4EBE4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+   </Borders>
+   <Interior ss:Color="#F4EBE4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:Rotate="90" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#D9D9D9"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#001F5F" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="###0.0;###0.0"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="15" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="13" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s31">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="13"/>
+  </Style>
+  <Style ss:ID="s32">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="13"/>
+  </Style>
+  <Style ss:ID="s33">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s34">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="48" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s35">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="72" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s36">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="48" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s37">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="18"/>
+  </Style>
+  <Style ss:ID="s38">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="20" ss:Bold="1"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s39">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16" ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s40">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="16"/>
+  </Style>
+  <Style ss:ID="s41">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Arial Unicode MS" x:Family="Swiss" ss:Size="54"
+    ss:Color="#272431"/>
+  </Style>
+  <Style ss:ID="s42">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="24"
+    ss:Color="#252525"/>
+  </Style>
+  <Style ss:ID="s91">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#6ECDDD"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+   <Interior ss:Color="#6ECDDD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#6ECDDD"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s94">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#039B79"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s95">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+   <Interior ss:Color="#039B79" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#039B79"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#DCB824"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+   <Interior ss:Color="#DCB824" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s99">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#DCB824"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#171717"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s101">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+   <Interior ss:Color="#171717" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s102">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#171717"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s103">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+   <Interior ss:Color="#6ECDDD" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s104">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#EA4934"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s105">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+   <Interior ss:Color="#EA4934" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s106">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#EA4934"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s107">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#67257D"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s108">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+   <Interior ss:Color="#67257D" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s109">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#67257D"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s110">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FDAF00"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s111">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="16" ss:Bold="1"/>
+   <Interior ss:Color="#FDAF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s112">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FDAF00"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s113">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#F27F20"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s114">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Trebuchet MS" x:Family="Swiss" ss:Size="14" ss:Bold="1"/>
+   <Interior ss:Color="#F27F20" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s115">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#F27F20"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s116">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#E1D5C5"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="13"/>
+   <Interior ss:Color="#E1D5C5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s117">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#E1D5C5"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#E1D5C5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s118">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#E1D5C5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s119">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s120">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s121">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s122">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#E1D5C5"/>
+   </Borders>
+   <Interior ss:Color="#E1D5C5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s123">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1"/>
+   <Interior ss:Color="#E1D5C5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s124">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Interior ss:Color="#E1D5C5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s128">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Times New Roman" x:CharSet="204" x:Family="Swiss"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s134">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:Rotate="90"
+    ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#001F5F" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="###0.0;###0.0"/>
+  </Style>
+  <Style ss:ID="s137">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:Rotate="90" ss:WrapText="1"/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#001F5F" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="###0.0;###0.0"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table 1">
+  <Table ss:ExpandedColumnCount="38" ss:ExpandedRowCount="292" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s15" ss:DefaultColumnWidth="42">
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="15"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="21"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="26.25"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="5.25" ss:Span="1"/>
+   <Column ss:Index="6" ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="21"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="36"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="15"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="36"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="21"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="9.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="26.25"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="21"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="15"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="9.75" ss:Span="2"/>
+   <Column ss:Index="18" ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="5.25"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="48.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="57"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="21"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="109.5"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="78"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="84"/>
+   <Column ss:Index="26" ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="109.5"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="26.25"/>
+   <Column ss:Index="29" ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="5.25"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="9.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="5.25" ss:Span="2"/>
+   <Column ss:Index="34" ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="26.25"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="9.75"/>
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="5.25" ss:Span="1"/>
+   <Column ss:Index="38" ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="36"/>
+   <Row ss:AutoFitHeight="0" ss:Height="117.9375">
+    <Cell ss:Index="9" ss:StyleID="s41"><Data ss:Type="String">Oman Investor</Data></Cell>
+    <Cell ss:Index="22" ss:StyleID="s41"><Data ss:Type="String">Handbook</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#00507A">Oman at a Glance</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Population Size</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#4E3943">5.1 Mn</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Working Population</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#4E3943">2.7 Mn</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Median Age</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#4E3943">27 Years</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">GDP</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#4E3943">$108.5 Bn</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Time zone</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#4E3943">(GMT+4)</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#030000">Language</Font><Font
+       html:Size="14" html:Color="#030000"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#4E3943">Official: </Font><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="18" html:Color="#4E3943">Arabic</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Currency</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27">
+    <Cell ss:StyleID="s19"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#4E3943">Omani Rial</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">(Pegged to the USD where $1 = OMR 0.386)</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Telecommunication</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">stood at 99%</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Education</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="18" html:Color="#4E3943">40+ </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">higher education</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">institutes with 32,000+</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">Hindi, Swahili &amp; Urdu</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s20"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="20" html:Color="#4E3943">309,501 km</Font><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="13" html:Color="#4E3943">2</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s21"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">(192,314 miles)</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s18"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#4E3943">3,165 km</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">(1,967 miles)</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">graduates annually</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s21"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Oman is the gateway to the Arabian Gulf and the Strait of</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:StyleID="s20"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#030000">Hormuz, through which nearly </Font><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="16" html:Color="#4E3943">one-fifth ofglobal oiloutput</Font><Font
+        html:Size="16" html:Color="#4E3943"> </Font></B><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#030000">passes daily. The Sultanate shares land borders with the UAE,</Font><Font
+       html:Size="14" html:Color="#030000"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#030000">Saudi Arabia, and Yemen, and shares maritime borders with</Font><Font
+       html:Size="14" html:Color="#030000"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#030000">Iran and Pakistan.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.9375">
+    <Cell ss:StyleID="s22"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">All official 2023 data</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#001F5F">The Economy</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63.9375">
+    <Cell ss:MergeAcross="17" ss:StyleID="m2440927387184"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Size="15">Government Debt % of GDP&#10;</Font></B><Font
+       html:Size="12">2019           2020           2021           2022           2023</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66">
+    <Cell ss:MergeAcross="15" ss:StyleID="m2440927387204"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="15">GDP in Billion USD&#10;</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">2019          2020          2021          2022          2023</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="60.9375">
+    <Cell ss:MergeAcross="15" ss:StyleID="m2440927387224"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="15">FDI Flows in Billion USD&#10;</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">2019          2020          2021          2022          2023</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="5.0625">
+    <Cell ss:MergeAcross="8" ss:MergeDown="1" ss:StyleID="s23"/>
+    <Cell ss:MergeDown="3" ss:StyleID="s134"><Data ss:Type="Number">114.7</Data></Cell>
+    <Cell ss:MergeAcross="1" ss:MergeDown="3" ss:StyleID="s23"/>
+    <Cell ss:StyleID="s23"/>
+    <Cell ss:MergeDown="3" ss:StyleID="s23"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.9375">
+    <Cell ss:Index="13" ss:MergeDown="2" ss:StyleID="s137"><Data ss:Type="Number">108.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeDown="1" ss:StyleID="s23"/>
+    <Cell ss:MergeDown="1" ss:StyleID="s137"><Data ss:Type="Number">88.1</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s23"/>
+    <Cell ss:MergeDown="1" ss:StyleID="s137"><Data ss:Type="Number">88.2</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="s23"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="69.9375">
+    <Cell ss:Index="3" ss:MergeAcross="2" ss:StyleID="s24"/>
+    <Cell ss:StyleID="s25"><Data ss:Type="Number">75.900000000000006</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="222">
+    <Cell ss:MergeAcross="15" ss:StyleID="m2440927384496"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="15">Current Account % of GDP&#10;</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">6.4%&#10;2.1%&#10;-4.8%                            -3.4%&#10;-11.7%&#10;2019          2020          2021          2022          2023</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="222">
+    <Cell ss:MergeAcross="15" ss:StyleID="m2440927384516"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="15">Fiscal Account % of GDP&#10;</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">7.7%&#10;1.4%&#10;-8.2%&#10;-15.6%&#10;2019          2020          2021          2022          2023</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.9375">
+    <Cell ss:StyleID="s26"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Credit Rating</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s27"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">S&amp;P</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.9375">
+    <Cell ss:StyleID="s22"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">B1          B+</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.9375">
+    <Cell ss:StyleID="s22"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">B2           B</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.9375">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="11">B3         </Font><Font
+       html:Size="11"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="11">B-</Font><Font html:Size="11"> </Font><U><Font html:Size="11">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</Font></U></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="15.9375">
+    <Cell ss:StyleID="s22"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">2015  2019  2020  2021  2022  2023</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s27"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Fitch</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#00507A">Connectivity</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s28"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Khasab</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Airports</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">5 Airports: </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">Less than a 3-hour flight to more than 30% of the world’s population.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s28"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Shinas</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Ports</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">Globally ranked, strategically located ports with a current capacity of 9.3 Mn TEUs.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">1.     Duqm Port </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">enjoys a superior and open location. It is a multi-purpose port and its importance has</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">increased after building a dry dock for ship repair.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">2.     Salalah Port </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">is one of the most distinguished ports regionally and internationally. Its strategic</Font><Font
+       html:Size="14" html:Color="#4E3943"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#4E3943">location on the Arabian Sea plays an important role.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">3.     Sohar Industrial port </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">is located just before the Strait of Hormuz and has developed into a world-</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">class port, capable of receiving ships with a draught of up to 18 meters.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">4.     Port Sultan Qaboos </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">is the main maritime gateway to the Sultanate of Oman and predominantly</Font><Font
+       html:Size="14" html:Color="#4E3943"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#4E3943">receives cruise ships.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">5.     Khasab port </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">is located in the north of the Sultanate and is used for traditional tourist ships.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Roads</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#4E3943">Oman has a developed highway network connecting all regions, and neighboring UAE, and</Font><Font
+       html:Size="14" html:Color="#4E3943"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#4E3943">Saudi Arabia, totaling around 15,000 kilometers, with 763 kilometers added in 2022.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#030000">Railway</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s28"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#D9B191">Al Mazyunah</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s28"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#D9B191">Salalah</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s28"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#D9B191">Sohar</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s28"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#D9B191">Muscat</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.9375">
+    <Cell ss:StyleID="s29"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#4E3943">Ports</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.9375">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Trebuchet MS" x:Family="Swiss" html:Color="#4E3943">Economic and</Font><Font
+        html:Color="#4E3943"> </Font><Font html:Face="Trebuchet MS"
+        x:Family="Swiss" html:Color="#4E3943">Free Zones</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">A railway network project connecting Oman and the UAE is currently underway, encompassing passenger stations in Sohar and Al</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#4E3943">Ain, complemented by freight stations in Sohar, Buraimi, and Al Ain.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12.9375">
+    <Cell ss:StyleID="s29"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#4E3943">Airports</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#00507A">The Business Environment</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="156">
+    <Cell ss:MergeAcross="19" ss:StyleID="s121"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="20" html:Color="#00507A">Judicial and Regulatory System&#10;</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13">Oman's judicial system is independent and reliable, with a</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">multi-level court structure where the Commercial Court can</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">rule against governmental bodies. Expropriation is prohibited,</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">adhering to international standards. Investor-friendly policies,</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">efficient dispute resolution, and government accountability</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">underscore Oman's commitment to economic development</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">and investor protection.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell ss:MergeAcross="10" ss:StyleID="s128"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="20" html:Color="#00507A">Taxation&#10;</Font></B><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13" html:Color="#030000">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13" html:Color="#030000"> No personal income tax&#10;</Font><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13" html:Color="#030000">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13" html:Color="#030000"> A 5% VAT&#10;</Font><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13" html:Color="#030000">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13" html:Color="#030000"> A flat 15% corporate tax&#10;</Font><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13" html:Color="#030000">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13" html:Color="#030000"> Withholding tax remittance</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell ss:MergeAcross="14" ss:StyleID="s121"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="20" html:Color="#00507A">Labor Market&#10;</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13">Oman's labor market has 2.7 million workers,</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">with over 65% being expatriates. The country</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">warmly welcomes foreign contributors,</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">supported by robust labor laws that foster a</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">diverse work environment and leverages global</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">skills for national progress.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="156">
+    <Cell ss:MergeAcross="28" ss:StyleID="s121"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="24" html:Color="#00507A">Other Incentives and Benefits&#10;</Font></B><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13"> Investment projects enjoy incentives under Omani law similar to ‘national projects’.&#10;</Font><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13"> Custom exemptions on the import of plant, machinery and raw materials for five years from the commencement of production.&#10;</Font><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13"> Favorable terms for debt finance from the domestic banking sector.&#10;</Font><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13"> Permitted use of long-term leases for land and real estate allocated for investment projects.&#10;</Font><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13"> Grants foreign investors the right of usufruct agreements that goes up to 50 years in free trade zones.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.9375">
+    <Cell ss:MergeAcross="22" ss:StyleID="s121"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="24" html:Color="#00507A">Foreign Direct Investments (FDI)&#10;</Font></B><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13"> 100% foreign ownership allowed in most industries under the new Foreign Capital Investment Law.&#10;</Font><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13"> No restrictions on capital, profit repatriation, or dividend transfers.&#10;</Font><Font
+       html:Face="Wingdings" x:CharSet="2" html:Size="13">§</Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13"> No currency exchange risk (pegged to the USD).</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">For further details on the</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">incentives kindly scan the QR or</Font><Font html:Size="12"> </Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">head </Font><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">www.investoman.om</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#00507A">Trade &amp; Bilateral Agreements</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:StyleID="s30"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Name of the Agreement              Nature of the Agreement            Application                           Signatories</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="38.0625">
+    <Cell ss:MergeAcross="27" ss:StyleID="s122"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="13">United States – Oman FTA                        Free Trade Agreement and Economic      Goods and Services                        Oman and the United States of America</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">Integration Agreement</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.9375">
+    <Cell ss:StyleID="s31"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Gulf Co-operation Council (GCC)              Customs Union                                            Goods                                               Bahrain, Kuwait, Oman, Qatar,</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.9375">
+    <Cell ss:StyleID="s32"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Saudi Arabia, United Arab Emirates</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="57.9375">
+    <Cell ss:MergeAcross="27" ss:StyleID="s123"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="13">GCC – European Free Trade                       Free Trade Agreement                               Goods                                               Bahrain, Kuwait, Oman, Saudi Arabia, Qatar,</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">Association (EFTA)                                                                                                                                                                           United Arab Emirates, Iceland,&#10;Liechtenstein, Norway, Switzerland</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.9375">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13">GCC – Singapore FTA                                  Free Trade Agreement &amp; Economic</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.9375">
+    <Cell ss:StyleID="s31"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Integration Agreement</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.9375">
+    <Cell ss:StyleID="s31"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Goods and Services                        Bahrain, Kuwait, Oman, Qatar,</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.9375">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13">Saudi Arabia, United Arab</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">Emirates, Singapore</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="99.9375">
+    <Cell ss:MergeAcross="27" ss:StyleID="s124"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="13">Greater Arab Free Trade Area                   Free Trade Agreement                                Goods                                               Algeria, Bahrain, Egypt, Iraq,</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">(GAFTA)                                                                                                                                                                                             Jordan, Kuwait, Lebanon, Libya,&#10;Morocco, Oman, Palestine, Qatar,</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">Saudi Arabia, Sudan, Syria,</Font><Font html:Size="13"> </Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="13">Tunisia, United Arab Emirates,</Font><Font
+       html:Size="13"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="13">Yemen</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.9375">
+    <Cell ss:StyleID="s31"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Oman is a member of the UN, the World Bank, WTO, Indian Ocean Rim Association, the International Bank for Reconstruction and Development, the Asian</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18.9375">
+    <Cell ss:StyleID="s31"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Infrastructure Investment Bank, Islamic Development Bank and the IMF.</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:MergeAcross="27" ss:StyleID="s116"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Oman signed bilateral Investment Treaties (BIT) with 26 nations including China and the UK.</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s27"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">For further details on the benefits kindly</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">scan the QR or head </Font><B><U><Font
+         html:Face="Calibri" x:Family="Swiss" html:Size="12">www.investoman.om</Font></U></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#FFFFFF">Free Trade Zones</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#FFFFFF">&amp; Special Economic Zones</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#FFFFFF">Name of the Free Zone           Features                                      Location Advantages</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="74.0625">
+    <Cell ss:MergeAcross="23" ss:StyleID="s117"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#000000">1   Special Economic Zone at       The largest special                     Prime geographical location overlooking the</Font><Font
+       html:Size="14" html:Color="#000000"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#000000">Duqm (SEZAD)                           economic zone in the               Arabian Sea and the Indian Ocean, coupled&#10;Middle East and North             with its proximity to global shipping lanes&#10;Africa</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#FFFFFF">2   Al Mazunah Free Zone             Gulf gateway and transship</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#FFFFFF">to Yemen and East Africa</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#FFFFFF">Located in the southeastern region of Oman,</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#FFFFFF">providing direct access to Yemen and Africa</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="72.9375">
+    <Cell ss:MergeAcross="23" ss:StyleID="s118"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#000000">3   Salalah Free Zone                     A global center for                    Located in close proximity to raw material&#10;industries and logistic               sources and emerging markets</Font><Font
+       html:Size="14" html:Color="#000000"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#000000">services on the Arabian Sea</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#FFFFFF">4   Sohar Free Zone                        Outreach to both regional</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#FFFFFF">and global markets</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#FFFFFF">Located just before the Strait of Hormuz and</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#FFFFFF">has access to global shipping routes and major</Font><Font
+       html:Size="14" html:Color="#FFFFFF"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#FFFFFF">ports all within proximity, offering swift access</Font><Font
+       html:Size="14" html:Color="#FFFFFF"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#FFFFFF">to the growing Middle East, Indian and African</Font><Font
+       html:Size="14" html:Color="#FFFFFF"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#FFFFFF">markets</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#FFFFFF">The Public Authority for Special Economic Zones &amp; Free Zones (OPAZ) </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#FFFFFF">oversees the Special Economic Zones at</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14" html:Color="#FFFFFF">Duqm, Al Mazunah Free Zone, Salalah Free Zone, Sohar Free Zone, Madayn’s industrial estates, as well as the</Font><Font
+       html:Size="14" html:Color="#FFFFFF"> </Font><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14" html:Color="#FFFFFF">technology park and Knowledge Oasis Muscat.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="69">
+    <Cell ss:Index="20" ss:StyleID="s34"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#252525">Oman Investment Authority</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="69">
+    <Cell ss:Index="20" ss:StyleID="s42"><Data ss:Type="String">Building a Sustainable Future for Oman</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#252525">About OIA</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Established in June 2020, the Oman Investment Authority (OIA) is Oman's sole sovereign investment fund, managing $50 billion. Formed by merging the State</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">General Reserve Fund (est. 1980), Oman Investment Fund (est. 2006), and over 160 assets and SOEs previously under the Ministry of Finance, OIA invests,</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">develops and manages, national and international assets. Its mandate includes:</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Arial" x:Family="Swiss" html:Size="14">•   </Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14"> Maximizing returns on funds and assets</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Arial" x:Family="Swiss" html:Size="14">•   </Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14"> Contributing to the state’s budget and financial sustainability</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Arial" x:Family="Swiss" html:Size="14">•   </Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14"> Growing future generations' investments and financial reserves</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Arial" x:Family="Swiss" html:Size="14">•   </Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14"> Promoting Oman’s investment environment and attracting investments</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Arial" x:Family="Swiss" html:Size="14">•   </Font><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14"> Advancing targeted economic sectors</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">OIA is structured into three sub-funds:</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>The Future Generations Fund (FGF)                National Development Fund (NDF)                                Future Fund Oman (FFO)</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="78.9375">
+    <Cell ss:MergeAcross="33" ss:StyleID="s119"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Face="Calibri"
+        x:Family="Swiss" html:Size="14">Overview          </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">The   international   investment   arm   of   OIA,     Manages domestic assets, and invests to diversify     A   $5.2   billion   fund   established   in   January   2024,</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">mandated  to  manage  funds  and  maximize     and advance targeted economic sectors                         investing   in   greenfield  and  brownfield   projects   in</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">returns for the future generations                                                                                                                              Oman. FFO serves as a strategic financial partner for</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">strategic  investors  (locals/  International)  seeking  co-&#10;investors</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Portfolio</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Highlights</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s27"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Consists of listed and non-listed assets across</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s27"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">all major sectors in more than 50 countries</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s27"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Consists of 160 portfolio companies under eight</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">sectoral holding entities across all major sectors of</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">the economy</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s27"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">An early portfolio, mainly composed of greenfield and</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell ss:StyleID="s27"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">growth projects in manufacturing, ICT, and tourism</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="93">
+    <Cell ss:MergeAcross="33" ss:StyleID="s120"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="12">As a financial investor, FGF partners with other     Through  its  SOEs,  NDF  partners  with  investors     With a minimum ticket size of $13 million (for Direct</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">financial  or  strategic  investors  to  invest  in     entering  Oman,  welcoming  investments  in  pre-     Large  projects)  and  below  $13  million  (with  smaller&#10;</Font><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Investment        </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">viable  direct,  listed  and  funds  opportunities     identified projects. NDF acts as a strategic minority     sizes for SMEs and VCs), FFO invests across all sectors&#10;</Font><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Opportunities </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">globally, while also seeking global strategic investor, aiding  foreign  strategic  and  industrial  of  the  economy,  excluding  oil,  gas,  and  Real  Estate,</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">partnerships   to   localize   technologies   and     investors in deploying capital in Oman                 through equity, quasi-equity, or debt, capping its Equity</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">advance Oman’s economy                                                                                                                                            shareholding per project at 40%.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="104.0625">
+    <Cell ss:Index="14" ss:StyleID="s35"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#252525">Sectors</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#F27F20">Energy</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">The energy sector, particularly Oil &amp; Gas, is crucial to Oman’s economy. Vision 2040 aims to transition and diversify the energy mix towards sustainable</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">sources like solar and wind, with a focus on green hydrogen production. </Font><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Oman is positioned to become a global leader in green hydrogen due to its</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">natural resources (solar irradiation, wind capacity), strategic location, and its shared infrastructure and logistics, with plans to develop a fully integrated</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">hydrogen ecosystem. </Font></B><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="14">Its stability and decarbonization goals create a favorable business environment. With five green hydrogen projects underway, Oman</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">is on track to meet its 2030 targets, closing 2023 with $38 billion invested in green hydrogen, 22.5 GW renewables capacity, and 925 ktpa hydrogen</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">production, potentially qualifying Oman to become the 6th largest hydrogen exporter globally by 2030, according to IEA.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9">
+    <Cell ss:MergeAcross="4" ss:StyleID="s113"/>
+    <Cell ss:MergeAcross="12" ss:MergeDown="1" ss:StyleID="s114"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#FFFFFF">Investment Potential</Font></B></ss:Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s113"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s115"/>
+    <Cell ss:Index="19" ss:MergeAcross="2" ss:StyleID="s115"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Investment in solar and wind farms</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">to harness Oman's abundant</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">renewable resources</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Offering hydrogen-based solutions for</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>decarbonizing industries such as steel and</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>chemicals, which are major consumers of hydrogen</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Investment in hydrogen storage</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">infrastructure, including battery</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">storage facilities</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Establishment of production facilities for green</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>ammonia, leveraging its ease of transport and</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>compatibility with global trading standards</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Setting up plants to produce green methanol as an</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>alternative fuel and industrial input, capitalizing</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>on hydrogen production</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">OQ, OIA’s energy arm, </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">has been growing steadily as a Global Integrated</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">Energy Group, managing direct investments  in oil  and gas exploration,</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">energy infrastructure, oil refining, petrochemicals, oil marketing, and</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">power generation. Its Alternative Energy (OQAE) unit covers the entire</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">alternative energy landscape, focusing on Green Molecules, Energy Assets,</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">and Energy Efficiency and Optimization. OQ welcomes investors for</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">partnership. Head to </Font><B><U><Font html:Face="Calibri"
+         x:Family="Swiss" html:Size="12">www.OQ.com&#160;</Font></U></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">for more details or scan the QR.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#FDAF00">Mining</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">The Sultanate boasts substantial commercial resources, estimated at approximately 54.5 million tons, with the country accounting for 44.4% of the global</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">gypsum supply. Additionally, the mining and refining sector in Oman stands to benefit significantly from the surge in demand for energy transition</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">minerals. Among the five current projects under development, two are crucial for energy transition technologies. Geothermal energy, for example, drives</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">demand for titanium, which is essential for handling the high heat and pressure in geothermal power generation. Despite these advancements, the sector</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">remains largely untapped and undeveloped, presenting numerous business opportunities.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="12">
+    <Cell ss:MergeAcross="2" ss:StyleID="s110"/>
+    <Cell ss:MergeAcross="15" ss:MergeDown="1" ss:StyleID="s111"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B>Investment Potential</B></ss:Data></Cell>
+    <Cell ss:MergeAcross="1" ss:StyleID="s110"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9">
+    <Cell ss:MergeAcross="2" ss:StyleID="s112"/>
+    <Cell ss:Index="20" ss:MergeAcross="1" ss:StyleID="s112"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Exploration and processing of</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>metallic and non-metallic minerals</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Develop mining education</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>and training centers</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Establishing  manufacturing  industries</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>utilizing    local    minerals,    such    as</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>construction materials, chemicals, and</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Establishing mineral trade and brokerage firms that act as intermediaries in mineral</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>commodities trade, both domestically and internationally</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>electronics</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">Mineral Development Oman (MDO), OIA’s mining arm</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">, was incepted in 2017, with the aim to develop</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">the natural metal and industrial mineral resources, in addition to supply chains for major industries to</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">maximize local production of these resources. MDO has developed several opportunities across various</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">metal and mineral value-chains, i.e. copper, gold, chromite potential/ophiolites, titanium, gypsum,</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">limestone, dolomite, and silica, and the company welcomes global investors to explore the</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">opportunities. Head to </Font><B><U><Font html:Face="Calibri"
+         x:Family="Swiss" html:Size="12">www.mdo.om&#160;</Font></U></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">for further details or scan the QR.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="69">
+    <Cell ss:StyleID="s36"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#67257D">Logistics</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="69">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">With five state-of-the-art airports, several world-class deep ports and a well developed road network connecting major cities and neighboring countries,</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">Oman has made substantial investments in infrastructure to position itself as a key logistics hub in the Middle East, leveraging its strategic geographic</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">location at the crossroads of East and West, within two weeks sail of all major global ports, serving as a major gateway for regional and international</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">trade. The land connectivity will be further enhanced by the current pipeline investment of a rail network linking major industrial areas across the</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">Sultanate of Oman, as well as a joint investment between Oman and the UAE linking economic and industrial zones in both countries.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9">
+    <Cell ss:MergeAcross="4" ss:StyleID="s107"/>
+    <Cell ss:MergeAcross="12" ss:MergeDown="1" ss:StyleID="s108"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#FFFFFF">Investment Potential</Font></B></ss:Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s107"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s109"/>
+    <Cell ss:Index="19" ss:MergeAcross="2" ss:StyleID="s109"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Integrated logistics services, leveraging</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Oman’s ports and airports</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Specialized storage facilities that cater to the</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>increasing demand from various sectors</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Value-added warehousing in free zones</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>that offer services such as packaging,</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>labeling, and assembly</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Distribution network using Oman as a</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">central hub for regional distribution to</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">the Middle East and beyond</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>E-commerce fulfillment centers in</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>strategic free zones</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">ASYAD Group, OIA’s logistics arm</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">, is Oman’s global integrated logistics service provider,</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">aiming to develop and provide integrated logistics services through offering unique</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">end-to-end supply chain solutions regionally and internationally, including maritime</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">services, ports, dry docks, free zones, cold chain transportation, storage and distribution.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">Scan the QR code or head to </Font><B><U><Font
+         html:Face="Calibri" x:Family="Swiss" html:Size="12">www.asyad.om&#160;</Font></U></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">for more details.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#EE4A35">Tourism</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">Oman has massive potential to deliver a unique tourism experience, unmatched by its neighbors, offering a unique and attractive destination for</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">international tourists and investors alike. Through its stable and diversified approach, and the leverage of its inherent strengths and strategic</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">initiatives, Oman’s tourism industry has shown steady and solid growth. The international tourist arrivals increased by 14% between 2019 and July</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">2023, exceeding the 2030 target set by Oman’s Vision 2040. The planned mixed-use development project in Jabal Akhdar, with an investment size of</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">$2.4 billion, is expected to further boost regional arrivals.</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9">
+    <Cell ss:MergeAcross="4" ss:StyleID="s104"/>
+    <Cell ss:MergeAcross="12" ss:MergeDown="1" ss:StyleID="s105"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#FFFFFF">Investment Potential</Font></B></ss:Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s104"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s106"/>
+    <Cell ss:Index="19" ss:MergeAcross="2" ss:StyleID="s106"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Oman's unique landscapes, including mountains,</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">beaches,   and   deserts,   make   it   an   attractive</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">destination for adventure tourism</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Oman's young population and high gaming</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">engagement present an opportunity to</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">develop esports arenas, training facilities, and</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">game studios</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Entertainment,  including  a  comprehensive,</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>large-scale  amusement  &amp;  theme  park  that</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>caters to all age groups</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Heritage and culture tourism presents a</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">lucrative business opportunity due to the</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">country's rich historical sites and unique</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">cultural traditions</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Health and wellness tourism</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">combined with the potential for</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">fitness bootcamps</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">High quality hotels and</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">accommodation services outside</Font><Font html:Size="14"> </Font><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Muscat</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">MICE, hosting global events and</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">other tourism related services</Font><Font html:Size="14"> </Font><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">across the value chain</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">Oman Tourism Development Company (OMRAN), OIA’s tourism arm</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">is the executive arm of the Sultanate for tourism development, was</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">established in 2005 to unlock the potential of the country as a global</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">tourism destination. To participate and take advantage of the journey,</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">scan the QR code or head to </Font><B><U><Font
+         html:Face="Calibri" x:Family="Swiss" html:Size="12">www.omran.om</Font></U></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#6ECDDD">ICT</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s17"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Oman's strategic location and existing telecommunications infrastructure presents a strong foundation for future growth in the ICT sector. As the world</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">shifts towards a data monetization economy, leveraging data for economic benefit becomes increasingly vital. Oman is well-positioned to capitalize on</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">this trend due to its significant role as a major landing point for 21 submarine cables, with 75% of buildings covered by fiber-optic networks and 98% of</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">the population covered by mobile networks. The rollout of 5G technology, with 2600 stations activated in 2022, enhances the potential for further</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">technological innovations, particularly in the Internet of Things (IoT). With the groundwork set for robust digital connectivity, Oman's digital potential</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">allows the country to serve as a digital hub and a digital corridor to the rest of the GCC with no disruptions.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9">
+    <Cell ss:MergeAcross="3" ss:StyleID="s91"/>
+    <Cell ss:MergeAcross="12" ss:MergeDown="1" ss:StyleID="s103"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#FFFFFF">Investment Potential</Font></B></ss:Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375">
+    <Cell ss:MergeAcross="3" ss:StyleID="s93"/>
+    <Cell ss:Index="18" ss:MergeAcross="3" ss:StyleID="s93"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Oman's role as a hub for submarine cables</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">boosts its appeal for Data Centers and</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">Cloud Services</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Satellite communications and earth</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">observation present high-value investment</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">opportunities</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Oman's robust cloud infrastructure makes it</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">an ideal location for Artificial Intelligence</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">and High-Tech Infrastructure</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Oman's e-commerce market has vast growth</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">potential, with only 8% of the population</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">shopping via mobile</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Fintech in Oman is set to grow,</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>aiming to double electronic payment</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">Oman Information and Communication Technology Company – ITHCA, OIA’s technology</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">arm, </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">was established in 2019 to help Oman integrate its ICT assets under one entity and</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">to benefit from the fourth industrial revolution (4IR) to achieve the objectives of the</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">economically sustainable development of the sector. ITHCA has developed several</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">opportunities across the ICT value chain, including opportunities in digital infrastructure,</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">cloud services, internet of things, emerging technologies and shared services. With</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">growing shift for data monetization, ITHCA  welcomes investors for partnership, with</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><U><Font
+         html:Face="Calibri" x:Family="Swiss" html:Size="12">www.ithca.om&#160;</Font></U></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">offering more details, or the OQ code on the side.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#081738">Manufacturing</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">Despite significant growth over the past five decades, Oman’s manufacturing sector still has gaps that offer lucrative opportunities for investors. As the</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">sector moves forward and embraces Industry 4.0, it aims to develop opportunities using Oman’s rich mix of natural resources, particularly in</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">petrochemicals, construction, cement, marble, gypsum, building products, minerals, and food and beverages. Additionally, there is increasing interest</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">from the Omani public and the region in locally made products, creating more opportunities to be tapped.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9">
+    <Cell ss:MergeAcross="4" ss:StyleID="s100"/>
+    <Cell ss:MergeAcross="12" ss:MergeDown="1" ss:StyleID="s101"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#FFFFFF">Investment Potential</Font></B></ss:Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s100"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s102"/>
+    <Cell ss:Index="19" ss:MergeAcross="2" ss:StyleID="s102"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Health-related manufacturing</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>projects</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Renewable manufacturing and green hydrogen value</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>chain, with pilot projects having already started</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Tapping into the supply-chain of electric</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>vehicles and semiconductors</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Pipes and infrastructure equipment</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">In addition to being OIA’s integrated energy company, OQ owns a</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">diversified portfolio of manufacturing companies </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">ranging from</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">refinery, chemicals and petrochemicals. OQ is well equipped for</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">co-investing with global partners on further tapping into the</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">manufacturing potential in Oman. Head to </Font><B><U><Font
+         html:Face="Calibri" x:Family="Swiss" html:Size="12">www.OQ.com&#160;</Font></U></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">for more</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">details or scan the QR.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#DCB824">Food &amp; Agri</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">The food sector in Oman has shown remarkable growth and potential, driven by strategic initiatives aimed at self-sufficiency and sustainability. This</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">expansion is crucial for reducing import dependence, ensuring food security, and stabilizing the national economy. Increasing demand for locally</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">produced goods offers ample investment opportunities in food processing, packaging, and distribution. With strong government support and favorable</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">market conditions, Oman's food and agriculture sector promises significant growth and long-term returns for investors.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9">
+    <Cell ss:MergeAcross="4" ss:StyleID="s97"/>
+    <Cell ss:MergeAcross="12" ss:MergeDown="1" ss:StyleID="s98"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#FFFFFF">Investment Potential</Font></B></ss:Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s97"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s99"/>
+    <Cell ss:Index="19" ss:MergeAcross="2" ss:StyleID="s99"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Enhancing local production through</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>advanced agricultural practices and</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>modern technology</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Innovative farming techniques, such as AI-</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">driven farming and IoT-based agricultural</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">monitoring</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Grain storage facilities, with the aim of</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>distributing across the region</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Food storage, processing,</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>and packaging facilities</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Sustainable farming and</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>organic farming</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Food trading companies</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">Oman  Food  Investment  holding  –  NITAJ,  OIA’s  food  &amp;  Agri  arm</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">,  is</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">executing a strategy for domestic and international investments in the food</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">sector. By integrating smart food technologies and innovation, it aims to</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">achieve food security, boost GDP, ensure financial sustainability, and</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">reduce the import-export gap. To unlock the potential, head to</Font><Font
+       html:Size="12"> </Font><B><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="12"> </Font><U><Font html:Face="Calibri" x:Family="Swiss"
+         html:Size="12">www.nitaj.om&#160;</Font></U></B><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="12">or scan the OQ code.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#039B79">Fisheries</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">Oman's fisheries sector represents a thriving area of investment, supported by government initiatives and strategic development plans. With a long</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">coastline, diverse biomass of 32 different fishery stocks, and multiple sites for commercial aquaculture projects, the sector is integral to Oman’s economic growth strategy. The country has 142% self-sufficiency in seafood consumption, highlighting its robust marine resources.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9">
+    <Cell ss:MergeAcross="4" ss:StyleID="s94"/>
+    <Cell ss:MergeAcross="12" ss:MergeDown="1" ss:StyleID="s95"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#FFFFFF">Investment Potential</Font></B></ss:Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s94"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s96"/>
+    <Cell ss:Index="19" ss:MergeAcross="2" ss:StyleID="s96"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Commercial fish and seafood</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>farming operations</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Cold Storage Facilities</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Coastal and offshore maricultural projects</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>to diversify seafood production</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Fish trading company to serve</Font><Font
+        html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="14">regional and global markets</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Facilities for processing and packaging</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>value-added seafood products</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Eco-friendly fishing practices and</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:StyleID="s33"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>equipment</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="12">Fisheries Development Oman (FDO), OIA arm in the fisheries sector</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">, aims to leverage</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="18">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="12">Oman’s structural competitive advantage in this industry to develop a diversified portfolio</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">across the sector, spanning from infrastructure to fishing and fish transformation. Its</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">mission is to stimulate the Omani economy through creating an attractive investment</Font><Font
+       html:Size="12"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="12">opportunity in the sector for investors and lenders. To partner with FDO, kindly head to</Font><Font
+       html:Size="12"> </Font><B><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="12"> </Font><U><Font html:Face="Calibri" x:Family="Swiss"
+         html:Size="12">www.fdo.om&#160;</Font></U></B><Font html:Face="Calibri"
+       x:Family="Swiss" html:Size="12">or scan the QR code.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell ss:StyleID="s16"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#6ECDDD">Healthcare</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="63">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">Oman's healthcare sector represents a thriving area of investment, backed robustly by government initiatives and a growing private sector presence. As</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">part of Oman Vision 2040, the government has identified healthcare as a critical pillar for national development, aiming to position Oman as a regional</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">leader in medical excellence. This strategic focus supports substantial projects and fosters a dynamic environment, where public and private</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">collaborations thrive, offering significant returns through advanced healthcare solutions and infrastructure.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9">
+    <Cell ss:MergeAcross="4" ss:StyleID="s91"/>
+    <Cell ss:MergeAcross="12" ss:MergeDown="1" ss:StyleID="s92"><ss:Data
+      ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Color="#FFFFFF">Investment Potential</Font></B></ss:Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s91"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s93"/>
+    <Cell ss:Index="19" ss:MergeAcross="2" ss:StyleID="s93"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Pharmaceuticals: </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">There are lucrative opportunities in both patented and generic</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">drug markets, fueled by strong demand and bolstered by the potential for</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">establishing local production facilities. Currently, only 7.6% of pharmaceuticals</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">are manufactured locally, indicating vast room for growth.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Infrastructure Development</Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">: New investments in</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">hospitals and medical cities while also expanding</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">channels for drug distribution and enhance the</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">provision of healthcare services.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Medical Equipment: </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">Investing in local manufacturing and</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">maintenance for medical and biomedical equipment could</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">reduce dependency on foreign services and address the</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">local skills gap.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="14">Digital Healthcare: </Font></B><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">There is immense potential for digital</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="14">solutions to improve service delivery, accessibility, and</Font><Font
+       html:Size="14"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="14">efficiency within the healthcare system.</Font></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27">
+    <Cell ss:StyleID="s37"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">With   political   stability,   a   peaceful   environment,   a   strategic   location,   abundant   natural   resources,   advanced</ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="27">
+    <Cell><ss:Data ss:Type="String" xmlns="http://www.w3.org/TR/REC-html40"><Font
+       html:Face="Calibri" x:Family="Swiss" html:Size="18">infrastructure, a friendly business environment, and a young, educated population, Oman is poised for economic</Font><Font
+       html:Size="18"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+       html:Size="18">growth and becoming a global investment destination. </Font><B><Font
+        html:Face="Calibri" x:Family="Swiss" html:Size="18">OIA invites international partners to explore investment</Font><Font
+        html:Size="18"> </Font><Font html:Face="Calibri" x:Family="Swiss"
+        html:Size="18">opportunities and collaborate on transformative projects.</Font></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s38"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><U><Font html:Color="#252525">Contact&#160;us</Font></U></B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s30"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Future Generation Fund (FGF)</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:StyleID="s39"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><U><Font html:Color="#0000FF">fgf@oia.gov.om</Font></U></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:StyleID="s30"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>National Development Fund (NDF)</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:StyleID="s39"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><U><Font html:Color="#0000FF">ndf@oia.gov.om</Font></U></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:StyleID="s30"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Future Fund Oman (FFO)</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:StyleID="s39"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><U><Font html:Color="#0000FF">ffo@oia.gov.om</Font></U></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:StyleID="s30"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B>Other Inquires</B></ss:Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="24">
+    <Cell ss:StyleID="s40"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#0000FF">Investor.relations@oia.gov.om</Font></ss:Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>19</ActiveCol>
+     <RangeSelection>C20</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

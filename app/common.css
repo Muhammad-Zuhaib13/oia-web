@@ -1,0 +1,75 @@
+/* ======================================================================================== */
+/* Circular Button */
+/* ======================================================================================== */
+.circulat-btn-icon {
+  color: black;
+}
+.ant-btn.ant-btn-circle.ant-btn.circular-btn {
+  width: 48px;
+  height: 48px;
+  border: 0;
+  background-color: white;
+  position: relative;
+  overflow: hidden;
+}
+
+.ant-btn.ant-btn-circle.ant-btn.circular-btn::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 100%;
+  background-color: var(--light-brown);
+  transition: top 0.3s ease;
+}
+
+.ant-btn.ant-btn-circle.ant-btn.circular-btn:hover::before {
+  top: 0;
+}
+.ant-btn.ant-btn-circle.ant-btn.circular-btn:hover
+  .circulat-btn-icon {
+  color: white !important ;
+  z-index: 1;
+}
+/* ======================================================================================== */
+/* General Button */
+/* ======================================================================================== */
+
+.general-btn {
+  height: 40px;
+  width: 96px;
+  border-radius: 4px;
+  background-color: var(--dark-brown);
+  padding: 12px 20px;
+  font-size: 16px;
+  line-height: 22px;
+  color: white;
+  border: 0px;
+  font-weight: 500;
+  position: relative;
+  overflow: hidden;
+}
+.general-btn::before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 100%;
+  background-color: var(--light-brown);
+  transition: top 0.3s ease;
+  
+}
+.general-btn:hover::before {
+  top: 0;
+  color: black;
+}
+.general-btn-text {
+  position: relative;
+  color: white;
+  z-index: 9999; 
+  font-weight: 700;
+  line-height: 22px;
+  bottom: 3px;
+}
